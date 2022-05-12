@@ -1,0 +1,2 @@
+# 06_javaScript__Strings_Properties_Method_and_Tamplate_literals
+this is from javaScript set
